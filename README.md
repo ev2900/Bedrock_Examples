@@ -1,1 +1,1 @@
-# Bedrock_Streamlit_Application_Example
+# Bedrock Streamlit Application Example
