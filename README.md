@@ -1,1 +1,1 @@
-# Bedrock Streamlit Application Example
+# Amazon Bedrock Code Snipits and Examples
