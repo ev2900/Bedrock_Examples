@@ -1,4 +1,3 @@
-import json
 import boto3
 
 # Create a boto3 client for the bedrock-runtime
