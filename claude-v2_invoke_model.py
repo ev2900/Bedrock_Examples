@@ -6,7 +6,7 @@ client_bedrock_runtime = boto3.client('bedrock-runtime')
 
 # Create the body of the request to Anthropic Claud v2
 req_body = {
-    "prompt": "Human: what is 2 + 2 Assistant:",
+    "prompt": "\n\nHuman: what is 2 + 2 \n\nAssistant:",
     "max_tokens_to_sample": 300 #,
     #"temperature": 0.1,
     #"top_k": 250,
