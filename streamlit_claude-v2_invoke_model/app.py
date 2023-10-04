@@ -1,4 +1,3 @@
-# pip install -
 # python -m streamlit run app.py
 
 import json
